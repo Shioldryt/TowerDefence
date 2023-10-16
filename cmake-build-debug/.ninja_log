@@ -1,0 +1,8 @@
+# ninja log v5
+5	493	7191872179332764	CMakeFiles/TowerDefence.dir/main.cpp.obj	3cba13c237815ce4
+664	1357	7191869442498889	TowerDefence.exe	92c710689c82c07f
+1	3267	7191877450611332	build.ninja	1735b12fbe37fa3a
+3	716	7191877341029964	CMakeFiles/TowerDefence.dir/TowerDefence.cpp.obj	3925c2566698a120
+3	660	7191878614266909	CMakeFiles/TowerDefence.dir/TowerDefence.cpp.obj	3925c2566698a120
+661	1623	7191878615101347	TowerDefence.exe	26717bee6f6a4f81
+4	662	7191878874677902	CMakeFiles/TowerDefence.dir/TowerDefence.cpp.obj	3925c2566698a120

@@ -1,0 +1,9 @@
+{
+  "name" : "towerdefence",
+  "version-string" : "1.0.0",
+  "builtin-baseline" : "486a4640db740f5994e492eb60748111dfc48de7",
+  "dependencies" : [ {
+    "name" : "sfml",
+    "version>=" : "2.6.0#19"
+  } ]
+}
